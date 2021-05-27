@@ -1,10 +1,10 @@
 <?php
 
 // データベースの接続情報
-define( 'DB_HOST', 'localhost');
-define( 'DB_USER', 'root');
-define( 'DB_PASS', 'root');
-define( 'DB_NAME', 'board');
+define( 'DB_HOST', 'us-cdbr-east-03.cleardb.com');
+define( 'DB_USER', 'bffa5ce92c3100');
+define( 'DB_PASS', '2fdce8f1');
+define( 'DB_NAME', 'heroku_4e51ab3f29eedd0');
 
 // タイムゾーン設定
 date_default_timezone_set('Asia/Tokyo');
